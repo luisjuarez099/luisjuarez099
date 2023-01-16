@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisjuarez099
 - 👀 I’m interested in learn code and programing 
-- 🌱 I’m currently learning engineer of software and learn python in VSC and W3 School. 
+- 🌱 I’m currently learning engineer of software and learn python, java and sometimes rust. 
 - 💞️ I’m looking to collaborate on found my startup 
 - 📫 How to reach me type me and showme your work, i'm want to learn. 
 
