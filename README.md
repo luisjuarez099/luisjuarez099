@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luisjuarez099
 - 👀 I’m interested in learn code and programing 
-- 🌱 I’m currently learning engineer of software and learn python, java and sometimes rust. 
-- 💞️ I’m looking to collaborate on found my startup 
+- 🌱 I’m currently learning engineer of software and learn python, Reactjs and sometimes rust. 
+- 💞️ I’m looking to collaborate on found my own software business,
 - 📫 How to reach me type me and showme your work, i'm want to learn. 
 
 <!---
